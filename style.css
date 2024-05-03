@@ -123,9 +123,7 @@ aside#lista {
     border-radius: 20px 20px 0px 0px;
 }
 
-#lista ul {
-    columns: 2;
-}
+
 
 #lista li {
     text-align: center;
